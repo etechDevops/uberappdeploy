@@ -1,2 +1,2 @@
 @Library('etechshared-library') _
-uberApp, ''
+uberApp, 'https://github.com/etechDevops/uberappdeploy'
